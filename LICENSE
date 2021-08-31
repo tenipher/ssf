@@ -1,0 +1,36 @@
+Copyright segfaultdev, 2021
+
+This project is distributed with the nop license version 1.0:
+
+Distribution of this project, with or without modification, is permitted as
+long as this license and file are not modified and publicly available along
+with the rest of the project, attribution to the author(s) is kept/added and
+publicly available and the source code is also made publicly available with the
+project. Additionally, all of the files that were originally provided with the
+project must keep this license, although additional files can use other
+licenses. Finally, the author(s) will always have the right to determine if
+the terms of the license are not met, forcing the distributors to stop
+distributing the content or to change the content accordingly to meet the
+terms.
+
+Meanings:
+
+- Author(s): Whoever created the original version of the program and its
+  contributors, although the main creator will always have priority in
+  decisions. This does include creators and contributors of forks and
+  redistributions, although with a lower priority than the original creator and
+  its contributors in decisions.
+
+- Redistributions: Unmodified copies of the project made public by someone that
+  is not the original author.
+
+- Forks: Modified copies of the project available made public by someone that
+  is not the original author.
+
+Modifying the license:
+
+Creating a custom license based off of the nop license is allowed as long as
+all authors excluding creators and contributors of forks and redistributions
+give their own consent to do so. However, the custom license must have a
+different name to this one. Renaming an existing version of the license is
+not allowed either, so a new license must be created.
